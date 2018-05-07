@@ -1,0 +1,3 @@
+12 Nov 2015
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/se0ujn7RjLkmyo" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/AshishVishwakarma13/managing-data-in-ms-dynamics-crm-2015" title="Managing Data in MS Dynamics CRM 2015" target="_blank">Managing Data in MS Dynamics CRM 2015</a> </strong> from <strong><a href="https://www.slideshare.net/AshishVishwakarma13" target="_blank">Ashish Vishwakarma</a></strong> </div>
