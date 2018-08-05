@@ -1,5 +1,7 @@
 # My Talks
 
+1. [Virtual Entities In Dynamics 365](https://www.ashishvishwakarma.com/Virtual-Entities-In-Dynamics-365/) / August 5, 2018
+
 1. [Getting Started with Dynamics 365](https://www.ashishvishwakarma.com/dynamics-365-101-webinar/) / Sept 3, 2017
 
 1. [Solutions in Dynamics CRM](https://www.ashishvishwakarma.com/Presentations/Solutions-in-Dynamics-CRM) / Nov, 2015
