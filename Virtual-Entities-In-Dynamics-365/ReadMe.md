@@ -38,3 +38,10 @@ Primary Key : xFAuNvaHDqH2TqbLqBSvIFWhG1st30xUKj29oTk4zPzWGJYn99vB7jlKAsW4AZpzmK
 **OData V4 API Endpoint**
 [https://d365in-virtual-entity-demo.azurewebsites.net/](https://d365in-virtual-entity-demo.azurewebsites.net/)
 
+
+-----
+
+[If you wish to present any topis please click here](http://www.dynamics365india.org/Speaker)
+
+[Subscribe for Updates from Dynamics 365 India](https://goo.gl/uGA82i)
+
