@@ -1,4 +1,4 @@
-# Virtual Entities In Dynamics 365
+# Virtual Entities In Dynamics 365 (Webinar Content)
 
 ## Event URL
 [http://www.dynamics365india.org/Events/2018/August/5/Virtual-Entities-In-Dynamics-365/](http://www.dynamics365india.org/Events/2018/August/5/Virtual-Entities-In-Dynamics-365/)
