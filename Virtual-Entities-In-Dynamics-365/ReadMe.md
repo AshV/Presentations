@@ -4,6 +4,8 @@
 [http://www.dynamics365india.org/Events/2018/August/5/Virtual-Entities-In-Dynamics-365/](http://www.dynamics365india.org/Events/2018/August/5/Virtual-Entities-In-Dynamics-365/)
 
 -----
+![Dynamics 365 India Webinar](webinar.jpg)
+-----
 
 ## Slides
 <iframe src="//slides.com/ashv/virtual-entities-in-dynamics-365/embed" width="100%" height="500" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
